@@ -1,5 +1,3 @@
-![banner](https://user-images.githubusercontent.com/72495729/144704361-97d18309-8246-4d10-bc13-8f7d4df930c9.png)
-
 # anojds 👋
 
 현재 Html, CSS, JavaScript, react native를 공부하고 있습니다
