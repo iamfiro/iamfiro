@@ -1,4 +1,4 @@
-![banner](https://i.esdrop.com/d/ZklKfna5T3.jpg)
+![banner](https://user-images.githubusercontent.com/72495729/144704361-97d18309-8246-4d10-bc13-8f7d4df930c9.png)
 
 # anojds 👋
 
