@@ -1,6 +1,6 @@
 ![banner](https://capsule-render.vercel.app/api?type=slice&text=anojds&rotate=20&height=300&fontAlignY=30&fontAlign=70&color=gradient)  
   
-> ## 👨‍💻 Tech Stack  
+> # 👨‍💻 Tech Stack  
 > ![html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)  
 ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
@@ -13,7 +13,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anojds)](https://github.com/anuraghazra/github-readme-stats)
   
-## 📊 GitHub stats
+# 📊 GitHub stats
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=anojds&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anojds)](https://github.com/anuraghazra/github-readme-stats)
 <br>
@@ -21,7 +21,7 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=anojds)](https://solved.ac/anojds)
   
-## 😄 ME  
+# 😄 ME  
 <a href="https://twitter.com/anojds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UC2TsyfIZNlw0W53Ux-_J86Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 <br/>
