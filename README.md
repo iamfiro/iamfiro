@@ -15,7 +15,7 @@
   
 # 📊 GitHub stats
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=anojds&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anojds)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anojds&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <br>
 ### BOJ
 [![Solved.ac
