@@ -1,5 +1,7 @@
 ![banner](https://capsule-render.vercel.app/api?type=slice&text=anojds&rotate=20&height=300&fontAlignY=30&fontAlign=70&color=gradient)  
-  
+
+![github-profile-trophy](https://github-profile-trophy.vercel.app/?username=anojds&theme=onedark)
+
 > # 👨‍💻 Tech Stack  
 > ![html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)  
