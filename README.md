@@ -34,7 +34,7 @@
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anojds" width="30%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=anojds&theme=onestar&no-frame=true&column=6&row=2"  width="65%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anojds&theme=onestar&no-frame=true&column=4&row=3"  width="65%"/>
 </p>
 
 <p align="center">
