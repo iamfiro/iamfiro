@@ -54,7 +54,6 @@
 <a href="https://twitter.com/anojds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UC2TsyfIZNlw0W53Ux-_J86Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 <br/>
-[![Discord](https://discord.c99.nl/widget/theme-1/535676248513314816.png)](http://discord.com/users/535676248513314816)
 
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanojds&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
