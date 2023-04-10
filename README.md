@@ -1,6 +1,6 @@
 ![bannerImg](header.png)
 
-<h1>안녕하세요! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 개발자 anojds입니다.</h1>
+<h1>안녕하세요! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 개발자 FIRO입니다.</h1>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
