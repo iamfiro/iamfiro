@@ -22,39 +22,37 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=anojds&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=anojds&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=iamfiro&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=iamfiro&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"/>
 </p>
 
 <img src="colored.png"  width="100%"/>
 
 <p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=anojds&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%">
+<img src="https://activity-graph.herokuapp.com/graph?username=iamfiro&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%">
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anojds" width="30%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=anojds&theme=onestar&no-frame=true&column=4&row=3"  width="65%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfiro" width="30%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=iamfiro&theme=onestar&no-frame=true&column=4&row=3"  width="65%"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anojds&theme=github_dark&utcOffset=4"  width="31%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anojds&theme=github_dark&hide_border=true"  width="64%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamfiro&theme=github_dark&utcOffset=4"  width="31%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamfiro&theme=github_dark&hide_border=true"  width="64%"/>
 </p>
 
 <p align="center">
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=anojds" width="35%" />
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=iamfiro" width="35%" />
 <p>
 
 <img src="./colored.png"  width="100%"/>
 
   
 # 😄 소셜
-<a href="https://twitter.com/anojds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-<br/>
 <img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner4" alt="Discord Banner 4"/>
 
 <p align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fanojds&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamfiro&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
 </p>
