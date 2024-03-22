@@ -43,10 +43,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamfiro&theme=github_dark&hide_border=true"  width="64%"/>
 </p>
 
-<p align="center">
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=iamfiro" width="35%" />
-<p>
-
 <img src="./colored.png"  width="100%"/>
 
   
