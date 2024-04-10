@@ -26,21 +26,17 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=iamfiro&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%"/>
 </p>
 
-<img src="colored.png"  width="100%"/>
-
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=iamfiro&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%">
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfiro" width="30%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=iamfiro&theme=onestar&no-frame=true&column=4&row=3"  width="65%"/>
-</p>
-
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamfiro&theme=github_dark&utcOffset=4"  width="31%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamfiro&theme=github_dark&hide_border=true"  width="64%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamfiro" width="30%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamfiro&theme=onestar&no-frame=true&column=4&row=3"  width="65%"/>
 </p>
 
 <img src="./colored.png"  width="100%"/>
