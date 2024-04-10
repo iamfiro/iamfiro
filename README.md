@@ -35,6 +35,7 @@ hi, i'm [FIRO](https://firos.dev), front-end developer currently studying softwa
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=Vercel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=Nextdotjs&logoColor=white)
 
+<br/>
 
 ### Open source projects
 | 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues |
@@ -42,17 +43,23 @@ hi, i'm [FIRO](https://firos.dev), front-end developer currently studying softwa
 | **[Next.js Landing Page Template](https://github.com/iamfiro/nextjs-landing-template)** | <img alt="Stars" src="https://img.shields.io/github/stars/iamfiro/nextjs-landing-template?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/iamfiro/nextjs-landing-template?style=flat-square&labelColor=343b41"/> | <img alt="Issues" src="https://img.shields.io/github/issues/iamfiro/nextjs-landing-template?style=flat-square&labelColor=343b41"/> |
 | **[Auto Upload  School Meal to Instagram](https://github.com/sunrin-project/instagram)** | <img alt="Stars" src="https://img.shields.io/github/stars/sunrin-project/instagram?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/sunrin-project/instagram?style=flat-square&labelColor=343b41"/> | <img alt="Issues" src="https://img.shields.io/github/issues/sunrin-project/instagram?style=flat-square&labelColor=343b41"/> |
 
+<br/>
+
 ### Github Stats
 <p align="left" style="justify-content: space-between">
 <img src="https://github-readme-stats.vercel.app/api?username=iamfiro&theme=light&show_icons=true&count_private=true&hide_border=true"  width="40%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=iamfiro&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="40%"/>
 </p>
 
+<br/>
+
 ### Commits footprints
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamfiro&theme=github_dark&utcOffset=4"  width="31%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamfiro&theme=github_dark&hide_border=true"  width="64%"/>
 </p>
+
+<br/>
 
 ### How to reach me
 <a href="https://github.com/thmsgbrt" target="_blank">
