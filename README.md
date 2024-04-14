@@ -2,7 +2,7 @@
 
 <img width="45%" align="right" alt="Github"  style="margin-left: 30px" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-hi, i'm [FIRO](https://firos.dev), front-end developer currently studying software at  **Sunrin Internet High School** in <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width=13 /> **South Korea**. not reluctant to learn new technologies and are creating services that people will love and need.
+hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying software at  **Sunrin Internet High School** in <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width=13 /> **South Korea**. not reluctant to learn new technologies and are creating services that people will love and need.
 
 <br/>
 <br/>
