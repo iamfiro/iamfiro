@@ -38,11 +38,11 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 
 <br/>
 
-### Open source projects
-| 🎁 Projects | ⭐ Stars | 📚 Forks | 🛎 Issues |
-| --- | --- | --- | --- |
-| **[Next.js Landing Page Template](https://github.com/iamfiro/nextjs-landing-template)** | <img alt="Stars" src="https://img.shields.io/github/stars/iamfiro/nextjs-landing-template?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/iamfiro/nextjs-landing-template?style=flat-square&labelColor=343b41"/> | <img alt="Issues" src="https://img.shields.io/github/issues/iamfiro/nextjs-landing-template?style=flat-square&labelColor=343b41"/> |
-| **[Auto Upload  School Meal to Instagram](https://github.com/sunrin-project/instagram)** | <img alt="Stars" src="https://img.shields.io/github/stars/sunrin-project/instagram?style=flat-square&labelColor=343b41"/> | <img alt="Forks" src="https://img.shields.io/github/forks/sunrin-project/instagram?style=flat-square&labelColor=343b41"/> | <img alt="Issues" src="https://img.shields.io/github/issues/sunrin-project/instagram?style=flat-square&labelColor=343b41"/> |
+### Projects
+| 🎁 Projects | ⭐ Stars |
+| --- | --- |
+| **[Next.js Landing Page Template](https://github.com/iamfiro/nextjs-landing-template)** | <img alt="Stars" src="https://img.shields.io/github/stars/iamfiro/nextjs-landing-template?style=flat-square&labelColor=343b41"/> |
+| **[Auto Upload  School Meal to Instagram](https://github.com/sunrin-project/instagram)** | <img alt="Stars" src="https://img.shields.io/github/stars/sunrin-project/instagram?style=flat-square&labelColor=343b41"/> |
 
 <br/>
 
