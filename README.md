@@ -43,8 +43,8 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 | --- | --- |
 | **[Periodic table with 3d](https://github.com/iamfiro/t-table)** | <img alt="Stars" src="https://img.shields.io/github/stars/iamfiro/t-table?style=flat-square&labelColor=343b41"/> |
 | **[Auto Upload  School Meal to Instagram](https://github.com/sunrin-project/instagram)** | <img alt="Stars" src="https://img.shields.io/github/stars/sunrin-project/instagram?style=flat-square&labelColor=343b41"/> |
-
 | **[Next.js Landing Page Template](https://github.com/iamfiro/nextjs-landing-template)** | <img alt="Stars" src="https://img.shields.io/github/stars/iamfiro/nextjs-landing-template?style=flat-square&labelColor=343b41"/> |
+
 <br/>
 
 ### Github Stats
