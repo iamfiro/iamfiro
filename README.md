@@ -1,5 +1,3 @@
-![bannerImg](https://github.com/iamfiro/iamfiro/blob/main/assets/header.png?raw=true)
-
 ## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25> Hey there! Nice to See you. 
 
 <img width="45%" align="right" alt="Github"  style="margin-left: 30px" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
