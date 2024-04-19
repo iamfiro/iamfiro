@@ -7,8 +7,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 <img src="https://komarev.com/ghpvc/?username=iamfiro&label=Profile%20views&color=0e75b6&style=flat" alt="iamfiro-counter" />
 
 <br/>
-<br/>
-<br/>
 
 ### Things I Work with
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)
