@@ -1,3 +1,7 @@
+![bannerImg](https://github.com/iamfiro/iamfiro/blob/main/assets/header.png?raw=true)
+
+<br/>
+
 ## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25> Hey there! Nice to See you. 
 
 <img width="45%" align="right" alt="Github"  style="margin-left: 30px" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -67,13 +71,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 
 <br/>
 
-### Velog 최신 글
-<ul>
-<li><a href="https://velog.io/@jwkwon0817/python-baekjoon-10816"><b>[ Python ] 백준 10816번 (숫자 카드 2) (2024-1-7)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/nestjs-config-wrong-argument-type"><b>[ NestJS ] Argument type "PORT" is not assignable to parameter type KeyOf<K>  (2023-10-14)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/nodejs-es6-syntax"><b>[ NodeJS ] Express에서 ES6 문법 사용하기 (2023-9-29)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/thumbnailer"><b>[ Tip ] Velog 유저를 위한 Thumbnailer 사이트 (2023-9-25)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/js-custom-element"><b>[ JS ] Custom Element (2023-9-25)</b></a><br/></li>
-</ul>
-
-<br/>
-
 ### How to reach me
 <a href="https://github.com/iamfiro" target="_blank">
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -83,7 +80,12 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 </a>
 
 <br/>
-<br/>
-<br/>
 
-![bannerImg](https://github.com/iamfiro/iamfiro/blob/main/assets/header.png?raw=true)
+### Velog 최신 글
+<ul>
+<li><a href="https://velog.io/@jwkwon0817/python-baekjoon-10816"><b>[ Python ] 백준 10816번 (숫자 카드 2) (2024-1-7)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/nestjs-config-wrong-argument-type"><b>[ NestJS ] Argument type "PORT" is not assignable to parameter type KeyOf<K>  (2023-10-14)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/nodejs-es6-syntax"><b>[ NodeJS ] Express에서 ES6 문법 사용하기 (2023-9-29)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/thumbnailer"><b>[ Tip ] Velog 유저를 위한 Thumbnailer 사이트 (2023-9-25)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/js-custom-element"><b>[ JS ] Custom Element (2023-9-25)</b></a><br/></li>
+</ul>
+
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/iamfiro/iamfiro/node.js.yml)
+![GitHub forks](https://img.shields.io/github/forks/iamfiro/iamfiro?style=flat)
+
