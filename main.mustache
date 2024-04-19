@@ -4,7 +4,6 @@
 
 <img width="45%" align="right" alt="Github"  style="margin-left: 30px" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-안녕하세요, 저는 [FIRO](https://devfiro.com)라고 합니다, 현재 선린인터넷고등학교를 재학중에 있으며 프론트엔드를 메인으로 공부하고 있습니디. 새로운 기술을 배우기를 꺼리지 않고 사람들이 좋아하고 필요로 하는 서비스를 만드려고 노력하고 있습니다.<br/><br/>
 hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying software at  **Sunrin Internet High School** in <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width=13 /> **South Korea**. not reluctant to learn new technologies and are creating services that people will love and need.<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=iamfiro&label=Profile%20views&color=0e75b6&style=flat" alt="iamfiro-counter" />
 
