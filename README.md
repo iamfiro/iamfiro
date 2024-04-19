@@ -55,12 +55,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 <img src="https://github-readme-streak-stats.herokuapp.com?user=iamfiro&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="40%"/>
 </p>
 
-### Commits footprints
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamfiro&theme=github_dark&utcOffset=4"  width="31%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamfiro&theme=github_dark&hide_border=true"  width="64%"/>
-</p>
-
 ### How to reach me
 <a href="https://github.com/iamfiro" target="_blank">
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
@@ -69,7 +63,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
   <img alt="Github" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
-### Velog 최신 글
+### Recent Velog Posts
 <ul>
 <li><a href="https://velog.io/@jwkwon0817/python-baekjoon-10816"><b>[ Python ] 백준 10816번 (숫자 카드 2) (2024-1-7)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/nestjs-config-wrong-argument-type"><b>[ NestJS ] Argument type "PORT" is not assignable to parameter type KeyOf<K>  (2023-10-14)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/nodejs-es6-syntax"><b>[ NodeJS ] Express에서 ES6 문법 사용하기 (2023-9-29)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/thumbnailer"><b>[ Tip ] Velog 유저를 위한 Thumbnailer 사이트 (2023-9-25)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/js-custom-element"><b>[ JS ] Custom Element (2023-9-25)</b></a><br/></li>
 </ul>
