@@ -46,7 +46,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 <br/>
 
 ### Projects
-| 🎁 Projects | ⭐ Stars |
+| 💎 Projects | ⭐ Stars |
 | --- | --- |
 | **[원소 주기율표 with 3d (Periodic table)](https://github.com/iamfiro/t-table)** | <img alt="Stars" src="https://img.shields.io/github/stars/iamfiro/t-table?style=flat-square&labelColor=343b41"/> |
 | **[선린투데이 (Auto Upload Meal to Instagram)](https://github.com/sunrin-project/instagram)** | <img alt="Stars" src="https://img.shields.io/github/stars/sunrin-project/instagram?style=flat-square&labelColor=343b41"/> |
