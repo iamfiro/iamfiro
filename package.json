@@ -1,0 +1,31 @@
+{
+    "name": "awsome-readme-velog",
+    "version": "1.0.0",
+    "description": "실시간으로 최근 velog글 5개가 Readme에 업데이트 됩니다",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/iamfiro/iamfiro.git"
+    },
+    "keywords": [
+        "readme.md",
+        "github",
+        "actions",
+        "dynamic",
+        "javascript"
+    ],
+    "author": "iamfiro",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/iamfiro/iamfiro/issues"
+    },
+    "homepage": "https://github.com/iamfiro/iamfiro#readme",
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "mustache": "^4.2.0",
+        "xml-js": "^1.6.11"
+    }
+}
