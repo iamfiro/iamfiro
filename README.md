@@ -9,7 +9,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 <br/>
 <br/>
 <br/>
-<br/>
 
 ### Things I Work with
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)
