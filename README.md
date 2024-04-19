@@ -1,7 +1,5 @@
 ![bannerImg](https://github.com/iamfiro/iamfiro/blob/main/assets/header.png?raw=true)
 
-<br/>
-
 ## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=25> Hey there! Nice to See you. 
 
 <img width="45%" align="right" alt="Github"  style="margin-left: 30px" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -44,8 +42,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=Nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=Express&logoColor=white)
 
-<br/>
-
 ### Projects
 | 💎 Projects | ⭐ Stars |
 | --- | --- |
@@ -53,23 +49,17 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 | **[선린투데이 (Auto Upload Meal to Instagram)](https://github.com/sunrin-project/instagram)** | <img alt="Stars" src="https://img.shields.io/github/stars/sunrin-project/instagram?style=flat-square&labelColor=343b41"/> |
 | **[Next.js Landing Page Template](https://github.com/iamfiro/nextjs-landing-template)** | <img alt="Stars" src="https://img.shields.io/github/stars/iamfiro/nextjs-landing-template?style=flat-square&labelColor=343b41"/> |
 
-<br/>
-
 ### Github Stats
 <p align="left" style="justify-content: space-between">
 <img src="https://github-readme-stats.vercel.app/api?username=iamfiro&theme=light&show_icons=true&count_private=true&hide_border=true"  width="40%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=iamfiro&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="40%"/>
 </p>
 
-<br/>
-
 ### Commits footprints
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamfiro&theme=github_dark&utcOffset=4"  width="31%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamfiro&theme=github_dark&hide_border=true"  width="64%"/>
 </p>
-
-<br/>
 
 ### How to reach me
 <a href="https://github.com/iamfiro" target="_blank">
@@ -78,8 +68,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 <a href="https://instagram.com/chxs_u" target="_blank">
   <img alt="Github" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
-
-<br/>
 
 ### Velog 최신 글
 <ul>
