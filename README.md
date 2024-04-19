@@ -28,6 +28,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=GIT&logoColor=fff)
 ![html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=NPM&logoColor=fff)
+![Yaml](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=YAML&logoColor=fff)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=NESTJS&logoColor=fff)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)
