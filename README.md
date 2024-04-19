@@ -17,6 +17,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TYPESCRIPT&logoColor=white)
 ![chrome](https://img.shields.io/badge/Google%20Chrome-1572B6?style=flat-square&logo=GOOGLECHROME&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=YARN&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-347deb?style=flat-square&logo=Mysql&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=Discord&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux.js-764ABC?style=flat-square&logo=Redux&logoColor=white)
@@ -37,6 +38,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=Vercel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=Nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=Express&logoColor=white)
 
 <br/>
 
