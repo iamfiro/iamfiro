@@ -33,6 +33,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 ![Yaml](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=YAML&logoColor=fff)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=NESTJS&logoColor=fff)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=ELECTRON&logoColor=white)
