@@ -37,6 +37,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=ELECTRON&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white)
+![socketdotio](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=Vercel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=Nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=Express&logoColor=white)
