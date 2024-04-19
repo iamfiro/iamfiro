@@ -65,6 +65,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 <li><a href="https://velog.io/@jwkwon0817/python-baekjoon-10816"><b>[ Python ] 백준 10816번 (숫자 카드 2) (2024-1-7)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/nestjs-config-wrong-argument-type"><b>[ NestJS ] Argument type "PORT" is not assignable to parameter type KeyOf<K>  (2023-10-14)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/nodejs-es6-syntax"><b>[ NodeJS ] Express에서 ES6 문법 사용하기 (2023-9-29)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/thumbnailer"><b>[ Tip ] Velog 유저를 위한 Thumbnailer 사이트 (2023-9-25)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/js-custom-element"><b>[ JS ] Custom Element (2023-9-25)</b></a><br/></li>
 </ul>
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/iamfiro/iamfiro/node.js.yml?style=plastic&label=README%20build)
-![GitHub forks](https://img.shields.io/github/forks/iamfiro/iamfiro?style=flat)
+https://img.shields.io/github/actions/workflow/status/iamfiro/iamfiro/node.js.yml?style=plastic&logo=github&label=README%20build
+![GitHub forks](https://img.shields.io/github/forks/iamfiro/iamfiro?style=plastic&logoColor=README%20forks)
+
 
