@@ -62,11 +62,11 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 
 ### Recent Velog Posts
 <ul>
-
+<li><a href="https://velog.io/@yoosion030/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B7%A8%EC%97%85-%EC%A4%80%EB%B9%84-%EC%9E%91%EC%84%B1-%EA%B8%80"><b>신입 개발자의 취업 준비 (2024-4-9)</b></a><br/></li><li><a href="https://velog.io/@yoosion030/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%9A%8C%EC%82%AC-%EC%A0%81%EC%9D%91%EA%B8%B0-sgn43e3i"><b>신입 개발자의 회사 적응기 (2024-3-31)</b></a><br/></li><li><a href="https://velog.io/@yoosion030/3.-%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A7%88%EB%AC%B8-%EB%B0%A9%EB%B2%95-%EC%BB%A4%ED%94%BC%EC%B1%97"><b>신입 개발자의 질문 방법 (커피챗) (2024-1-17)</b></a><br/></li><li><a href="https://velog.io/@yoosion030/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-%EB%B0%A9%EB%B2%95%EA%B8%B0%EC%88%A0"><b>신입 개발자의 면접 준비 방법(기술) (2024-1-8)</b></a><br/></li><li><a href="https://velog.io/@yoosion030/%EC%8B%A0%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%9E%91%EC%84%B1%EB%B2%95"><b>신입 개발자의 포트폴리오 작성법 (2023-12-21)</b></a><br/></li>
 </ul>
 
 README are updated **every 3 hours**<br/>
-Last update: Sat, 20 Apr 2024 12:56:16 GMT
+Last update: Sat, 20 Apr 2024 13:55:30 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
 ![GitHub forks](https://img.shields.io/github/forks/iamfiro/iamfiro?style=plastic&logoColor=README%20forks)
