@@ -20,7 +20,7 @@ async function action() {
         if(json.length > 5) json = json.slice(0, 5); // 최신 5개의 글만 가져오기
         json.map((item, index) => {
             const date = new Date(item.pubDate._text); // 글 작성 날짜
-            post_data.post += `<li><a href="${item.link._text}"><b>${item.title._cdata} (${date.getFullYear()}-${date.getMonth() + 1}-${date.getDate()})</b></a><br/></li>` // README.md에 삽입할 HTML 코드
+            post_data.post += `<li><a href="${item.link._text}"><b>${item.title._cdata.replaceAll('<', '&lt;').replaceAll('>', '&gt;')} (${date.getFullYear()}-${date.getMonth() + 1}-${date.getDate()})</b></a><br/></li>` // README.md에 삽입할 HTML 코드
         });
     }
 
