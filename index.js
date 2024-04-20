@@ -15,7 +15,7 @@ async function action() {
     const response = await fetch(`https://api.velog.io/rss/@${process.env.VELOG_USERNAME}`);
     const response_data = await response.text();
     var json = JSON.parse(convert.xml2json(response_data, {compact: true, spaces: 4})).rss.channel.item; // XML 객체를 JSON 객체로 변환
-  
+    console.log(json, process.env.VELOG_USERNAME)
     if(String(json) === 'undefined') { // json이 undefined일때 slice 함수를 사용할 수 없어서 오류가 발생함
         if(json.length > 5) json = json.slice(0, 5); // 최신 5개의 글만 가져오기
         json.map((item, index) => {
