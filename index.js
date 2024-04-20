@@ -7,9 +7,11 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 
 let post_data = {
     post: '',
+    updatedAt: new Date().toUTCString()
 }
 
 async function action() {
+    // Velog 글 가져오기
     const response = await fetch(`https://api.velog.io/rss/@${process.env.VELOG_USERNAME}`);
     const response_data = await response.text();
     var json = JSON.parse(convert.xml2json(response_data, {compact: true, spaces: 4})).rss.channel.item;
