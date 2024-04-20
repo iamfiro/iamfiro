@@ -66,7 +66,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 </ul>
 
 README are updated **every 3 hours**<br/>
-Last update: Sat, 20 Apr 2024 19:42:27 GMT
+Last update: Sat, 20 Apr 2024 19:42:44 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
 ![GitHub forks](https://img.shields.io/github/forks/iamfiro/iamfiro?style=plastic&logoColor=README%20forks)
