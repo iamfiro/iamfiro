@@ -66,7 +66,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 </ul>
 
 README are updated **every 3 hours**<br/>
-Last update: Sat, 20 Apr 2024 07:24:39 GMT
+Last update: Sat, 20 Apr 2024 09:04:10 GMT
 
 ![GitHub Actions](https://img.shields.io/github/actions/workflow/status/iamfiro/iamfiro/main.yml?style=plastic&logo=github&label=README%20build)
 ![GitHub forks](https://img.shields.io/github/forks/iamfiro/iamfiro?style=plastic&logoColor=README%20forks)
