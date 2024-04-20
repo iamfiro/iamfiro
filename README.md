@@ -2,7 +2,7 @@
 
 <img width="45%" align="right" alt="Github"  style="margin-left: 30px" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-HI, i'm [FIRO](https://devfiro.com), front-end developer currently studying software at  **Sunrin Internet High School** in <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width=13 /> **South Korea**. not reluctant to learn new technologies and are creating services that people will love and need.<br/><br/>
+hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying software at  **Sunrin Internet High School** in <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width=13 /> **South Korea**. not reluctant to learn new technologies and are creating services that people will love and need.<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=iamfiro&label=Profile%20views&color=0e75b6&style=flat" alt="iamfiro-counter" />
 
 <br/>
@@ -66,7 +66,7 @@ HI, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 </ul>
 
 README are updated **every 3 hours**<br/>
-Last update: Sat, 20 Apr 2024 12:32:06 GMT
+Last update: Sat, 20 Apr 2024 12:42:37 GMT
 
-![GitHub Actions](https://img.shields.io/github/actions/workflow/status/iamfiro/iamfiro/main.yml?style=plastic&logo=github&label=README%20build)
+[![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
 ![GitHub forks](https://img.shields.io/github/forks/iamfiro/iamfiro?style=plastic&logoColor=README%20forks)
