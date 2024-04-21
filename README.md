@@ -65,7 +65,7 @@ Hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 <li><a href="https://velog.io/@jwkwon0817/python-baekjoon-10816"><b>[ Python ] 백준 10816번 (숫자 카드 2) (2024-1-7)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/nestjs-config-wrong-argument-type"><b>[ NestJS ] Argument type "PORT" is not assignable to parameter type KeyOf&lt;K&gt;  (2023-10-14)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/nodejs-es6-syntax"><b>[ NodeJS ] Express에서 ES6 문법 사용하기 (2023-9-29)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/thumbnailer"><b>[ Tip ] Velog 유저를 위한 Thumbnailer 사이트 (2023-9-25)</b></a><br/></li><li><a href="https://velog.io/@jwkwon0817/js-custom-element"><b>[ JS ] Custom Element (2023-9-25)</b></a><br/></li>
 </ul>
 
-README are updated **every 3 hours** [나도 만들어보기 !](https://velog.io/@awsome_firo/%EA%B9%83%ED%97%99-README%EC%97%90-%EC%B5%9C%EC%8B%A0-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EA%B8%B0)<br/>
+README are updated **every 3 hours** [ \[ 나도 만들어보기 ! \]](https://velog.io/@awsome_firo/%EA%B9%83%ED%97%99-README%EC%97%90-%EC%B5%9C%EC%8B%A0-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EA%B8%B0)<br/>
 Last update: Sun, 21 Apr 2024 09:03:09 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
