@@ -2,7 +2,8 @@ name: Velog README build
 
 on:
   push:
-    branches: [ "main" ]
+    paths:
+      - 'main.mustache'
   schedule:
     - cron: '0 */3 * * *'
 
