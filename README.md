@@ -2,7 +2,7 @@
 
 <img width="45%" align="right" alt="Github"  style="margin-left: 30px" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying software at  **Sunrin Internet High School** in <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width=13 /> **South Korea**. not reluctant to learn new technologies and are creating services that people will love and need.<br/><br/>
+Hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying software at  **Sunrin Internet High School** in <img src="https://cdn-icons-png.flaticon.com/512/5111/5111586.png" width=13 /> **South Korea**. not reluctant to learn new technologies and are creating services that people will love and need.<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=iamfiro&label=Profile%20views&color=0e75b6&style=flat" alt="iamfiro-counter" />
 
 <br/>
@@ -62,11 +62,11 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 
 ### Recent Velog Posts
 <ul>
-
+<li><a href="https://velog.io/@awsome_firo/%EA%B9%83%ED%97%99-README%EC%97%90-%EC%B5%9C%EC%8B%A0-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EA%B8%B0"><b>깃헙 README에 최신 포스트 실시간 업데이트 하기 (2024-4-20)</b></a><br/></li>
 </ul>
 
 README are updated **every 3 hours** [ \[ 나도 만들어보기 ! \]](https://velog.io/@awsome_firo/%EA%B9%83%ED%97%99-README%EC%97%90-%EC%B5%9C%EC%8B%A0-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EA%B8%B0)<br/>
-Last update: Sun, 21 Apr 2024 10:30:52 GMT
+Last update: Sun, 21 Apr 2024 10:41:33 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
 ![GitHub forks](https://img.shields.io/github/forks/iamfiro/iamfiro?style=plastic&logoColor=README%20forks)
