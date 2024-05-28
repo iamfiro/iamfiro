@@ -26,7 +26,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=GIT&logoColor=fff)
 ![html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![npm](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=NPM&logoColor=fff)
-![Youtube Music](https://img.shields.io/badge/Youtube%20Music-CB171E?style=flat-square&logo=YoutubeMusic&logoColor=fff)
 ![Yaml](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=YAML&logoColor=fff)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=NESTJS&logoColor=fff)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
@@ -65,7 +64,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 </ul>
 
 README are updated **every 3 hours** [ \[ 나도 만들어보기 ! \]](https://velog.io/@awsome_firo/%EA%B9%83%ED%97%99-README%EC%97%90-%EC%B5%9C%EC%8B%A0-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EA%B8%B0)<br/>
-Last update: Tue, 28 May 2024 03:03:30 GMT
+Last update: Tue, 28 May 2024 06:03:40 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
 ![GitHub forks](https://img.shields.io/github/forks/iamfiro/iamfiro?style=plastic&logoColor=README%20forks)
