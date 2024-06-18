@@ -67,4 +67,3 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 최근 업데이트: Tue, 18 Jun 2024 00:12:01 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
-![GitHub forks](https://img.shields.io/github/forks/iamfiro/iamfiro?style=plastic&logoColor=README%20forks)
