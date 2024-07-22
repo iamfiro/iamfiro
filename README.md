@@ -39,10 +39,8 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=Nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=Express&logoColor=white)
 
-### Projects
-| 💎 Projects | ⭐ Stars |
-| --- | --- |
-| **[선린투데이 (Auto Upload Meal to Instagram)](https://github.com/sunrin-project/instagram)** | <img alt="Stars" src="https://img.shields.io/github/stars/sunrin-project/instagram?style=flat-square&labelColor=343b41"/> |
+## 프로젝트
+- 선린투데이 [[ Github ]](https://github.com/sunrin-project/instagram)
 
 ### Github Stats
 <p align="left" style="justify-content: space-between">
@@ -60,10 +58,10 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 
 ### 최근 Velog 포스트
 <ul>
-<li><a href="https://velog.io/@awsome_firo/Typescript-Interface%EC%99%80-Type-%EC%B0%A8%EC%9D%B4"><b>[Typescript] Interface와 Type 차이 (2024-4-26)</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/%EA%B9%83%ED%97%99-README%EC%97%90-%EC%B5%9C%EC%8B%A0-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EA%B8%B0"><b>깃헙 README에 최신 포스트 실시간 업데이트 하기 (2024-4-20)</b></a><br/></li>
+<li><a href="https://velog.io/@awsome_firo/BOJ-1932-%EC%A0%95%EC%88%98-%EC%82%BC%EA%B0%81%ED%98%95"><b>[BOJ] 1932 정수 삼각형 (2024-7-22)</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-21965-%EB%93%9C%EB%86%92%EC%9D%80-%EB%82%A8%EC%82%B0-%EC%9C%84%EC%97%90-%EC%9A%B0%EB%9A%9D-%EC%84%A0"><b>[BOJ] 21965 드높은 남산 위에 우뚝 선 (2024-7-22)</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-17614-369"><b>[BOJ] 17614 369 (2024-7-22)</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-5586-JOI%EC%99%80-IOI"><b>[BOJ] 5586 JOI와 IOI (2024-7-22)</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-11022-AB-8"><b>[BOJ] 11022 A+B - 8 (2024-7-22)</b></a><br/></li>
 </ul>
 
 이 리드미는 3시간 마다 업데이트 됩니다 [ \[ 나도 만들어보기 ! \]](https://velog.io/@awsome_firo/%EA%B9%83%ED%97%99-README%EC%97%90-%EC%B5%9C%EC%8B%A0-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EA%B8%B0)<br/>
-최근 업데이트: Mon, 22 Jul 2024 00:12:45 GMT
+최근 업데이트: Mon, 22 Jul 2024 01:37:09 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
