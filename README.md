@@ -6,36 +6,22 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 <img src="https://komarev.com/ghpvc/?username=iamfiro&label=Profile%20views&color=0e75b6&style=flat" alt="iamfiro-counter" />
 
 <br/>
-
-### Things I Work with
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black)
+## 사용하는 기술
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
-![React](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black)
+![ReactNative](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TYPESCRIPT&logoColor=white)
-![chrome](https://img.shields.io/badge/Google%20Chrome-1572B6?style=flat-square&logo=GOOGLECHROME&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=YARN&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-347deb?style=flat-square&logo=Mysql&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=Discord&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux.js-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![StyledComponent](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=STYLEDCOMPONENTS&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=fff)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=fff)
-![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=GIT&logoColor=fff)
-![html](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![npm](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=NPM&logoColor=fff)
 ![Yaml](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=YAML&logoColor=fff)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=NESTJS&logoColor=fff)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
-![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=ELECTRON&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white)
 ![socketdotio](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=Vercel&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=Nextdotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=Express&logoColor=white)
 
@@ -70,6 +56,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 </ul>
 
 이 리드미는 3시간 마다 업데이트 됩니다 [ \[ 나도 만들어보기 ! \]](https://velog.io/@awsome_firo/%EA%B9%83%ED%97%99-README%EC%97%90-%EC%B5%9C%EC%8B%A0-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EA%B8%B0)<br/>
-최근 업데이트: Mon, 22 Jul 2024 03:04:58 GMT
+최근 업데이트: Mon, 22 Jul 2024 03:09:23 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
