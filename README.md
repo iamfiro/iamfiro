@@ -32,10 +32,8 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 > 개발 [조성주](https://github.com/iamfiro/iamfiro), [권지원](https://github.com/jwkwon0817)
 
 ## 수상 경력
-### 2024 선린톤 10th 금상
-[자세히 보기](https://www.instagram.com/p/C9rniVhpSjv/)
-
-### 2024 천하제일 코딩대회 은상
+- 2024 선린톤 10th 금상 - [NoDream](https://www.instagram.com/p/C9rniVhpSjv/)
+- 2024 천하제일 코딩대회 은상
 
 ### Github Stats
 <p align="left" style="justify-content: space-between">
@@ -49,6 +47,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 </ul>
 
 이 리드미는 3시간 마다 업데이트 됩니다 [ \[ 나도 만들어보기 ! \]](https://velog.io/@awsome_firo/%EA%B9%83%ED%97%99-README%EC%97%90-%EC%B5%9C%EC%8B%A0-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EA%B8%B0)<br/>
-최근 업데이트: Mon, 22 Jul 2024 06:04:15 GMT
+최근 업데이트: Mon, 22 Jul 2024 08:31:00 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
