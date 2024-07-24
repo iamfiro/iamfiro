@@ -16,6 +16,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white)
 ![StyledComponent](https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=STYLEDCOMPONENTS&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-68d3a7?style=for-the-badge&logo=Cypress&logoColor=white)
 
 #### BackEnd
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NESTJS&logoColor=fff)
@@ -30,6 +31,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 ![C++](https://img.shields.io/badge/C++-286ea6?style=for-the-badge&logo=Cplusplus&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 ![electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=ELECTRON&logoColor=white)
+
 ### 🧪 프로젝트
 ### [선린인고 급식 알림 서비스](https://github.com/sunrin-project/instagram)
 인스타그램 게시물 업로드 기능 밎 Cronjob 구현
@@ -45,6 +47,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 </ul>
 
 이 리드미는 3시간 마다 업데이트 됩니다 [ \[ 나도 만들어보기 ! \]](https://velog.io/@awsome_firo/%EA%B9%83%ED%97%99-README%EC%97%90-%EC%B5%9C%EC%8B%A0-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EA%B8%B0)<br/>
-최근 업데이트: Wed, 24 Jul 2024 00:57:35 GMT
+최근 업데이트: Wed, 24 Jul 2024 01:10:57 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
