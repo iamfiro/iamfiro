@@ -8,7 +8,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 <br/>
 
 ### 사용하는 기술
-#### FrontEndㅇ
+#### FrontEnddd
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=Nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)
 ![ReactNative](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black)
