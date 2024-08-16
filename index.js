@@ -22,7 +22,7 @@ async function action() {
 
             json.map((item, index) => {
                 const date = new Date(item.pubDate._text); // 글 작성 날짜
-                post_data.post += `<li><a href="${item.link._text}"><b>${item.title._cdata.replaceAll('<', '&lt;').replaceAll('>', '&gt;')} (${date.getFullYear()}-${date.getMonth() + 1}-${date.getDate()})</b></a><br/></li>` // README.md에 삽입할 HTML 코드
+                post_data.post += `<li><a href="${item.link._text}"><b>${item.title._cdata.replaceAll('<', '&lt;').replaceAll('>', '&gt;')}</b></a><br/></li>` // README.md에 삽입할 HTML 코드
             });
         }
     } catch (e) {
