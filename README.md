@@ -54,7 +54,7 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 <li><a href="https://velog.io/@awsome_firo/BOJ-9094-%EC%88%98%ED%95%99%EC%A0%81-%ED%98%B8%EA%B8%B0%EC%8B%AC-hf6za9sj"><b>[BOJ] 17245 서버실</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-9094-%EC%88%98%ED%95%99%EC%A0%81-%ED%98%B8%EA%B8%B0%EC%8B%AC"><b>[BOJ] 9094 수학적 호기심</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-28278-%EC%8A%A4%ED%83%9D-2"><b>[BOJ] 28278 스택 2</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-1904-01%ED%83%80%EC%9D%BC"><b>[BOJ] 1904 01타일</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-11399-ATM"><b>[BOJ] 11399 ATM</b></a><br/></li>
 </ul>
 
-이 리드미는 3시간 마다 업데이트 됩니다 [ \[ 나도 만들어보기 ! \]](https://velog.io/@awsome_firo/%EA%B9%83%ED%97%99-README%EC%97%90-%EC%B5%9C%EC%8B%A0-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%95%98%EA%B8%B0)<br/>
+이 리드미는 3시간 마다 업데이트 됩니다<br/>
 최근 업데이트: Thu, 05 Dec 2024 09:04:02 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
