@@ -19,7 +19,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 ![Cypress](https://img.shields.io/badge/Cypress-68d3a7?style=for-the-badge&logo=Cypress&logoColor=white)
 
 #### BackEnd
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NESTJS&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=Express&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-347deb?style=for-the-badge&logo=Mysql&logoColor=white)
@@ -51,10 +50,10 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 
 ### 📗 최근 Velog
 <ul>
-<li><a href="https://velog.io/@awsome_firo/BOJ-9094-%EC%88%98%ED%95%99%EC%A0%81-%ED%98%B8%EA%B8%B0%EC%8B%AC-hf6za9sj"><b>[BOJ] 17245 서버실</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-9094-%EC%88%98%ED%95%99%EC%A0%81-%ED%98%B8%EA%B8%B0%EC%8B%AC"><b>[BOJ] 9094 수학적 호기심</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-28278-%EC%8A%A4%ED%83%9D-2"><b>[BOJ] 28278 스택 2</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-1904-01%ED%83%80%EC%9D%BC"><b>[BOJ] 1904 01타일</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-11399-ATM"><b>[BOJ] 11399 ATM</b></a><br/></li>
+<li><a href="https://velog.io/@awsome_firo/dreamhack-devtools-sources"><b>[dreamhack] devtools-sources</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-9094-%EC%88%98%ED%95%99%EC%A0%81-%ED%98%B8%EA%B8%B0%EC%8B%AC-hf6za9sj"><b>[BOJ] 17245 서버실</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-9094-%EC%88%98%ED%95%99%EC%A0%81-%ED%98%B8%EA%B8%B0%EC%8B%AC"><b>[BOJ] 9094 수학적 호기심</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-28278-%EC%8A%A4%ED%83%9D-2"><b>[BOJ] 28278 스택 2</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/BOJ-1904-01%ED%83%80%EC%9D%BC"><b>[BOJ] 1904 01타일</b></a><br/></li>
 </ul>
 
-이 리드미는 3시간 마다 업데이트 됩니다<br/>
-최근 업데이트: Thu, 05 Dec 2024 09:04:02 GMT
+이 README는 3시간 마다 업데이트 됩니다 
+최근 업데이트: Thu, 05 Dec 2024 11:12:32 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
