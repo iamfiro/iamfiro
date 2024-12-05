@@ -19,7 +19,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 ![Cypress](https://img.shields.io/badge/Cypress-68d3a7?style=for-the-badge&logo=Cypress&logoColor=white)
 
 #### BackEnd
-![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=NESTJS&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=Express&logoColor=white)
 ![Mysql](https://img.shields.io/badge/Mysql-347deb?style=for-the-badge&logo=Mysql&logoColor=white)
