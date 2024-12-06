@@ -50,10 +50,10 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 
 ### 📗 최근 Velog
 <ul>
-<li><a href="https://velog.io/@awsome_firo/dreamhack-XSS-2"><b>[dreamhack] XSS-2</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/dreamhack-xss-1"><b>[dreamhack] xss-1</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/%EC%9D%B4%ED%95%B4%ED%95%98%EC%A7%80-%EB%AA%BB%ED%96%88%EA%B1%B0%EB%82%98-%EC%A7%81%EC%A0%91-%EA%B2%80%ED%86%A0%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%BD%94%EB%93%9C%EB%8A%94-DevTools-%EC%BD%98%EC%86%94%EC%97%90-%EB%B6%99%EC%97%AC%EB%84%A3%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94"><b>이해하지 못했거나 직접 검토하지 않은 코드는 DevTools 콘솔에 붙여넣지 마세요</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/dreamhack-%EC%84%B8%EC%85%98-%EA%B8%B0%EB%B3%B8"><b>[dreamhack] 세션 기본</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/dreamhack-%EC%BF%A0%ED%82%A4"><b>[dreamhack] 쿠키</b></a><br/></li>
+<li><a href="https://velog.io/@awsome_firo/dreamhack-CSRF"><b>[dreamhack] CSRF</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/dreamhack-XSS-2"><b>[dreamhack] XSS-2</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/dreamhack-xss-1"><b>[dreamhack] xss-1</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/%EC%9D%B4%ED%95%B4%ED%95%98%EC%A7%80-%EB%AA%BB%ED%96%88%EA%B1%B0%EB%82%98-%EC%A7%81%EC%A0%91-%EA%B2%80%ED%86%A0%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%BD%94%EB%93%9C%EB%8A%94-DevTools-%EC%BD%98%EC%86%94%EC%97%90-%EB%B6%99%EC%97%AC%EB%84%A3%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94"><b>이해하지 못했거나 직접 검토하지 않은 코드는 DevTools 콘솔에 붙여넣지 마세요</b></a><br/></li><li><a href="https://velog.io/@awsome_firo/dreamhack-%EC%84%B8%EC%85%98-%EA%B8%B0%EB%B3%B8"><b>[dreamhack] 세션 기본</b></a><br/></li>
 </ul>
 
 이 README는 3시간 마다 업데이트 됩니다 
-최근 업데이트: Fri, 06 Dec 2024 09:03:49 GMT
+최근 업데이트: Fri, 06 Dec 2024 12:05:45 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
