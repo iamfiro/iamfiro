@@ -44,9 +44,9 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 </details>
 
 ### 🏆 수상 경력
-- 2024 동행 해커톤 창의재단이사장상 - [프레시오](https://github.com/our-enemy-is-samsung/fresio)
-- 2024 앱잼 27th 최우수상 - [Github](https://github.com/iamfiro/TiWi)
-- 2024 선린톤 10th 금상 - [NoDream](https://www.instagram.com/p/C9rniVhpSjv/)
+- 2024 동행 해커톤 창의재단이사장상
+- 2024 앱잼 27th 최우수상
+- 2024 선린톤 10th 금상
 - 2024 천하제일 코딩대회 은상
 
 ### 📗 최근 Velog
@@ -55,6 +55,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 </ul>
 
 이 README는 3시간 마다 업데이트 됩니다 
-최근 업데이트: Sun, 29 Dec 2024 21:03:06 GMT
+최근 업데이트: Mon, 30 Dec 2024 00:00:10 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
