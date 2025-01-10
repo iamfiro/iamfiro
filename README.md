@@ -55,6 +55,6 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 </ul>
 
 이 README는 3시간 마다 업데이트 됩니다 
-최근 업데이트: Thu, 09 Jan 2025 21:03:14 GMT
+최근 업데이트: Fri, 10 Jan 2025 00:14:19 GMT
 
 [![Velog README build](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg)](https://github.com/iamfiro/iamfiro/actions/workflows/main.yml)
