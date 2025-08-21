@@ -44,6 +44,8 @@ hi, i'm [FIRO](https://devfiro.com), front-end developer currently studying soft
 </details>
 
 ### 🏆 수상 경력
+- 2025 창의아이디어경진대회 교내 수상
+- 2025 선린톤 10th 은상
 - 2024 동행 해커톤 창의재단이사장상
 - 2024 앱잼 27th 최우수상
 - 2024 선린톤 10th 금상
