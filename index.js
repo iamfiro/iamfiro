@@ -2,6 +2,7 @@ require('dotenv').config();
 const convert = require('xml-js');
 const Mustache = require('mustache');
 const fs = require('fs');
+const https = require('https');
 
 const MUSTACHE_MAIN_DIR = './main.mustache';
 
@@ -10,29 +11,77 @@ let post_data = {
     updatedAt: new Date().toUTCString()
 }
 
-async function action() {
-    try {
-        // Velog 글 가져오기
-        const response = await fetch(`https://api.velog.io/rss/@${process.env.VELOG_USERNAME}`);
-        const response_data = await response.text();
-        var json = JSON.parse(convert.xml2json(response_data, {compact: true, spaces: 4})).rss.channel.item; // XML 객체를 JSON 객체로 변환
-        if(json !== undefined) { // json이 undefined일때 slice 함수를 사용할 수 없어서 오류가 발생함
-            if(json.length > 5) json = json.slice(0, 5); // 최신 5개의 글만 가져오기
-            if(json.length === undefined) json = [json];
+// API에서 블로그 포스트 데이터를 가져오는 함수
+function fetchBlogPosts() {
+    return new Promise((resolve, reject) => {
+        const options = {
+            hostname: 'api.devfiro.com',
+            port: 443,
+            path: '/blog/posts',
+            method: 'GET',
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        };
 
-            json.map((item, index) => {
-                const date = new Date(item.pubDate._text); // 글 작성 날짜
-                post_data.post += `<li><a href="${item.link._text}"><b>${item.title._cdata.replaceAll('<', '&lt;').replaceAll('>', '&gt;')}</b></a><br/></li>` // README.md에 삽입할 HTML 코드
+        const req = https.request(options, (res) => {
+            let data = '';
+
+            res.on('data', (chunk) => {
+                data += chunk;
             });
-        }
-    } catch (e) {
-        console.log(e)
+
+            res.on('end', () => {
+                try {
+                    const jsonData = JSON.parse(data);
+                    resolve(jsonData);
+                } catch (error) {
+                    reject(error);
+                }
+            });
+        });
+
+        req.on('error', (error) => {
+            reject(error);
+        });
+
+        req.end();
+    });
+}
+
+// 블로그 포스트 데이터를 HTML 형태로 변환하는 함수
+function formatBlogPosts(posts) {
+    if (!posts || posts.length === 0) {
+        return '<li>작성된 글이 없습니다.</li>';
     }
 
-    await fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => { // README.md 템플릿 읽기
+    return posts.slice(0, 5).map(post => {
+        return `<li><a href="https://devfiro.com/blog/${post.title.replace(/[\[\]]/g, '').replace(/\s+/g, '-')}" target="_blank">${post.title}</a></li>`;
+    }).join('');
+}
+
+async function action() {
+    try {
+        // API에서 블로그 포스트 데이터 가져오기
+        const apiResponse = await fetchBlogPosts();
+        
+        if (apiResponse.ok && apiResponse.data) {
+            // 블로그 포스트 데이터를 HTML 형태로 변환
+            post_data.post = formatBlogPosts(apiResponse.data);
+        } else {
+            post_data.post = '<li>블로그 포스트를 불러올 수 없습니다.</li>';
+        }
+    } catch (error) {
+        console.error('API 요청 중 오류 발생:', error);
+        post_data.post = '<li>블로그 포스트를 불러올 수 없습니다.</li>';
+    }
+
+    // README.md 템플릿 읽기 및 렌더링
+    fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
         if (err) throw err;
-        const output = Mustache.render(data.toString(), post_data); // README.md 템플릿에 Mustache를 이용한 데이터 삽입
-        fs.writeFileSync('README.md', output); // output을 기반으로 README.md 파일 생성
+        const output = Mustache.render(data.toString(), post_data);
+        fs.writeFileSync('README.md', output);
+        console.log('README.md 파일이 성공적으로 업데이트되었습니다.');
     });
 }
 
