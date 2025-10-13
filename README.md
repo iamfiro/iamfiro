@@ -53,15 +53,14 @@ hi, i'm [FIRO](https://devfiro.com), Full-Stack developer currently studying sof
 - 2024 교내 천하제일코딩대회 은상
 
 ### 최근 작성한 글
-<li><a href="https://devfiro.com/blog/JVM-Java가-코드를-실행하는-방법" target="_blank">[JVM] Java가 코드를 실행하는 방법</a></li>
+- [[JVM] Java가 코드를 실행하는 방법](https://devfiro.com/blog/JVM-Java가-코드를-실행하는-방법)
 
 <br/>
 
 ------------
-<br/>
 
 <p align="center">
-Last updated: <i>Mon, 13 Oct 2025 02:28:17 GMT</i>
+Last updated: <i>Mon, 13 Oct 2025 02:36:35 GMT</i>
 </p>
 
 <p align="center">

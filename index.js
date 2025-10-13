@@ -10,8 +10,6 @@ let post_data = {
     post: '',
     updatedAt: new Date().toUTCString()
 }
-
-// API에서 블로그 포스트 데이터를 가져오는 함수
 function fetchBlogPosts() {
     return new Promise((resolve, reject) => {
         const options = {
@@ -49,24 +47,21 @@ function fetchBlogPosts() {
     });
 }
 
-// 블로그 포스트 데이터를 HTML 형태로 변환하는 함수
 function formatBlogPosts(posts) {
     if (!posts || posts.length === 0) {
         return '<li>작성된 글이 없습니다.</li>';
     }
 
     return posts.slice(0, 5).map(post => {
-        return `<li><a href="https://devfiro.com/blog/${post.title.replace(/[\[\]]/g, '').replace(/\s+/g, '-')}" target="_blank">${post.title}</a></li>`;
-    }).join('');
+        return `- [${post.title}](https://devfiro.com/blog/${post.title.replace(/[\[\]]/g, '').replace(/\s+/g, '-')})`;
+    }).join('\n');
 }
 
 async function action() {
     try {
-        // API에서 블로그 포스트 데이터 가져오기
         const apiResponse = await fetchBlogPosts();
         
         if (apiResponse.ok && apiResponse.data) {
-            // 블로그 포스트 데이터를 HTML 형태로 변환
             post_data.post = formatBlogPosts(apiResponse.data);
         } else {
             post_data.post = '<li>블로그 포스트를 불러올 수 없습니다.</li>';
@@ -76,7 +71,6 @@ async function action() {
         post_data.post = '<li>블로그 포스트를 불러올 수 없습니다.</li>';
     }
 
-    // README.md 템플릿 읽기 및 렌더링
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
         if (err) throw err;
         const output = Mustache.render(data.toString(), post_data);
