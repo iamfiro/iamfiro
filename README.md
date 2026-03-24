@@ -11,7 +11,6 @@ hi, i'm [FIRO](https://devfiro.com), Full-Stack developer currently studying sof
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black&style=flat)
 ![ReactNative](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=black&style=flat)
 ![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=TYPESCRIPT&logoColor=white&style=flat)
-![Recoil](https://img.shields.io/badge/Recoil-007af7?style=for-the-badge&logo=Recoil&logoColor=white&style=flat)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white&style=flat)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=Storybook&logoColor=white&style=flat)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white&style=flat)
@@ -22,11 +21,8 @@ hi, i'm [FIRO](https://devfiro.com), Full-Stack developer currently studying sof
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=Express&logoColor=white&style=flat)
 ![socketdotio](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white&style=flat)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white&style=flat)
-![Mysql](https://img.shields.io/badge/Mysql-347deb?style=for-the-badge&logo=Mysql&logoColor=white&style=flat)
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=Nestjs&logoColor=white&style=flat)
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white&style=flat)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white&style=flat)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white&style=flat)
 
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-2088FF?style=for-the-badge&logo=Github%20Actions&logoColor=white&style=flat)
