@@ -41,6 +41,7 @@ hi, i'm [FIRO](https://devfiro.com), Full-Stack developer currently studying sof
 </details>
 
 ### 수상 경력
+- 2026 기능경기대회 모바일앱개발 부문 은상
 - 2025 창의아이디어경진대회 수상
 - 2025 선린톤 11th 은상
 - 2024 동행 해커톤 창의재단이사장상
