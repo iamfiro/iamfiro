@@ -1,9 +1,10 @@
 {
     "name": "awsome-readme-velog",
     "version": "1.0.0",
-    "description": "실시간으로 최근 velog글 5개가 Readme에 업데이트 됩니다",
+    "description": "api.devfiro.com에서 프로젝트/수상 실적/블로그 글을 가져와 매일 README를 동기화합니다",
     "main": "index.js",
     "scripts": {
+        "sync": "node index.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
@@ -25,7 +26,6 @@
     "homepage": "https://github.com/iamfiro/iamfiro#readme",
     "dependencies": {
         "dotenv": "^16.4.5",
-        "mustache": "^4.2.0",
-        "xml-js": "^1.6.11"
+        "mustache": "^4.2.0"
     }
 }

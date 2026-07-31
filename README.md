@@ -29,34 +29,36 @@ hi, i'm [FIRO](https://devfiro.com), Full-Stack developer currently studying sof
 ![electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=ELECTRON&logoColor=white&style=flat)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&style=flat)
 ### 프로젝트
-### [선린인고 급식 알림 서비스](https://github.com/sunrin-project/instagram)
-인스타그램 게시물 업로드 기능 밎 Cronjob 구현
-> 개발 [조성주](https://github.com/iamfiro/iamfiro), [권지원](https://github.com/jwkwon0817)
+### Sigmoid 랜딩 페이지 디자인
+ㅁ너움ㄴㅇ
+> 2026.07 ~ 진행중 · `NestJS`
 
-<details>
-<summary>프로젝트 더보기</summary>
-
-### [온라인 저지 사이트](https://github.com/sunrin-nxp/frontend)
-프론트엔드 구현
-</details>
+### Sigmoid 랜딩 페이지 디자인 (1)
+ㅁ너움ㄴㅇ
+> 2026.07 ~ 진행중 · `NestJS`
 
 ### 수상 경력
-- 2026 기능경기대회 모바일앱개발 부문 은상
-- 2025 창의아이디어경진대회 수상
-- 2025 선린톤 11th 은상
-- 2024 동행 해커톤 창의재단이사장상
-- 2024 앱잼 27th 최우수상
-- 2024 선린톤 10th 금상
-- 2024 교내 천하제일코딩대회 은상
+- 2026 기능경기대회 모바일앱개발 부문 은상 (한국산업인력공단)
+- 2024 앱잼 27th 최우수상 (SOPT)
+- 2024 선린톤 10th 금상 (선린인터넷고등학교)
+- 2025 선린톤 11th 은상 (선린인터넷고등학교)
+- 2024 교내 천하제일코딩대회 은상 (선린인터넷고등학교)
+- 2025 창의아이디어경진대회 수상 (서울특별시, 서울특별시교육청)
+- 2024 전국 고등학교 동아리 소프트웨어 경진대회 은상 (충남대학교 SW중심대학사업단, KAIST SW교육센터, 우송대학교 · 건양대학교 · 국립한밭대학교 SW중심대학사업단(공동))
+- 2024 동행 해커톤 창의재단이사장상 (과학기술정보통신부 & 한국과학창의재단)
+
+### 최근 블로그 글
+- [[JVM] Java가 코드를 실행하는 방법](https://devfiro.com/blog/JVM-Java%EA%B0%80-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
 <br/>
 
 ------------
+<br/>
 
 <p align="center">
-Last updated: <i>Mon, 13 Oct 2025 02:36:35 GMT</i>
+Last updated: <i>Fri, 31 Jul 2026 10:36:09 GMT</i>
 </p>
 
 <p align="center">
-<img src="https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg" alt="Velog README build" />
+<img src="https://github.com/iamfiro/iamfiro/actions/workflows/main.yml/badge.svg" alt="README Sync" />
 </p>
