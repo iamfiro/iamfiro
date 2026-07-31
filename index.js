@@ -6,11 +6,13 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 const README_DIR = './README.md';
 
 const API_BASE = process.env.API_BASE_URL || 'https://api.devfiro.com';
-const BLOG_BASE = process.env.BLOG_BASE_URL || 'https://devfiro.com/blog';
+const SITE_BASE = process.env.SITE_BASE_URL || 'https://devfiro.com';
+const BLOG_BASE = `${SITE_BASE}/blog`;
+const PROJECT_LIST_URL = `${SITE_BASE}/projects`;
 
 const REQUEST_TIMEOUT_MS = 10_000;
 const MAX_RETRY = 2;
-const VISIBLE_PROJECT_COUNT = 2; // 이 개수만큼만 펼쳐서 보여주고 나머지는 <details>로 접는다
+const VISIBLE_PROJECT_COUNT = 2; // 이 개수까지만 README에 싣고, 나머지는 포트폴리오 사이트로 유도한다
 const MAX_POST_COUNT = 5;
 
 /**
@@ -98,7 +100,8 @@ function byDateDesc(getDate) {
 
 function formatProject(project) {
     const title = sanitize(project.title) || '제목 없는 프로젝트';
-    const link = project.githubUrl || project.deployUrl;
+    // 저장소/배포 링크가 없으면 포트폴리오 사이트의 상세 페이지로 연결한다.
+    const link = project.githubUrl || project.deployUrl || (project.id ? `${PROJECT_LIST_URL}/${project.id}` : null);
     const lines = [link ? `### [${title}](${link})` : `### ${title}`];
 
     const description = sanitize(project.description);
@@ -125,20 +128,11 @@ function formatProjects(projects) {
 
     const sorted = [...projects].sort(byDateDesc((project) => project.startDate ?? project.createdAt));
     const visible = sorted.slice(0, VISIBLE_PROJECT_COUNT).map(formatProject).join('\n\n');
-    const hidden = sorted.slice(VISIBLE_PROJECT_COUNT).map(formatProject);
 
-    if (hidden.length === 0) return visible;
+    if (sorted.length <= VISIBLE_PROJECT_COUNT) return visible;
 
-    return [
-        visible,
-        '',
-        '<details>',
-        '<summary>프로젝트 더보기</summary>',
-        '',
-        hidden.join('\n\n'),
-        '',
-        '</details>',
-    ].join('\n');
+    const rest = sorted.length - VISIBLE_PROJECT_COUNT;
+    return `${visible}\n\n**[프로젝트 ${rest}개 더보기 →](${PROJECT_LIST_URL})**`;
 }
 
 function formatAwards(awards) {
@@ -151,9 +145,8 @@ function formatAwards(awards) {
             const year = getYear(award.date);
             // 제목에 이미 연도가 들어있으면(예: "2024 앱잼 27th 최우수상") 중복 표기하지 않는다.
             const label = /^\d{4}\b/.test(title) || !year ? title : `${year} ${title}`;
-            const organization = sanitize(award.organization);
 
-            return organization ? `- ${label} (${organization})` : `- ${label}`;
+            return `- ${label}`;
         })
         .join('\n');
 }
