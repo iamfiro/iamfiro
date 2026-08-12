@@ -2,7 +2,7 @@
 
 <img width="45%" align="right" alt="Github"  style="margin-left: 30px" src="assets/git-header.svg" />
 
-hi, i'm [FIRO](https://devfiro.com), Full-Stack developer currently studying software at  **Sunrin Internet High School** in <img src="assets/korea.png" width=13 /> **South Korea**. not reluctant to learn new technologies and are creating services that people will love and need.<br/><br/>
+hi, i'm [Sungju Cho](https://devfiro.com), Full-Stack developer currently studying software at  **Sunrin Internet High School** in <img src="assets/korea.png" width=13 /> **South Korea**. not reluctant to learn new technologies and are creating services that people will love and need.<br/><br/>
 <br/>
 
 <h3>사용하는 기술</h3>
