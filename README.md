@@ -27,6 +27,7 @@ hi, i'm [Sungju Cho](https://devfiro.com), Full-Stack developer currently studyi
 > 2026.06 ~ 진행중 · `Flutter` `Kotlin` `Swift`
 
 ### 수상 경력
+- 2026 학교안전문화 확산 공모전 서울특별시학교안전공제회 이사장상
 - 2026 선린톤 12th 금상
 - 2026 기능경기대회 모바일앱개발 부문 은상
 - 2025 선린톤 11th 은상
